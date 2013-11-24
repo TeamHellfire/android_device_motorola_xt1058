@@ -42,3 +42,6 @@ DEVICE_RESOLUTION := 720x1280
 
 # userdata size is double for maxx
 BOARD_USERDATAIMAGE_PARTITION_SIZE := 12884901888
+
+# Set meta data to use older recoverys 
+USE_SET_METADATA := false
